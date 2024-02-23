@@ -5,7 +5,7 @@
 🚀 Currently Learning: [Different development platform with different languages]
 🔍 Interested In Open Source, Problem Solving, Data Structures
 
-🔧 Tech Stack: [Java, MySql]
+🔧 Tech Stack: [Java, MySql, AWS Cloud Computing]
 📚 Constantly Reading: [Development architecture]
 🌱 Growing: Always seeking new challenges to broaden my horizons.
 💡 Goal: To leverage technology for real-world impact.
